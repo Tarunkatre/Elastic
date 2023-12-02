@@ -552,7 +552,7 @@ body {
         height: 10px;
         position: absolute;
         bottom: 1%;
-        left: 42%;
+        left: 30%;
         transform-origin: 0%;
         transform: scaleX(0);
         transition: all ease .5s;
